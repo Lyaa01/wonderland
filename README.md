@@ -1,6 +1,6 @@
-# 🎨 Wonderland – Proyek Desain UI Website
+# Wonderland – Proyek Desain UI Website
 
-## 📌 Deskripsi Proyek
+## Deskripsi Proyek
 
 **Wonderland** adalah proyek desain antarmuka pengguna (UI) berbasis Figma yang berfokus pada pembuatan tampilan visual untuk sebuah website. Proyek ini dirancang untuk menciptakan pengalaman pengguna yang menarik, estetis, dan intuitif, dengan fokus pada pengorganisasian layout, warna, dan navigasi yang konsisten.
 
@@ -8,7 +8,7 @@ Tujuan utama dari proyek ini adalah menghasilkan rancangan UI yang dapat dijadik
 
 ---
 
-## 🎓 Latar Belakang
+## Latar Belakang
 
 Proyek ini dikerjakan secara berkelompok sebagai bagian dari tugas mata kuliah  Interaksi Manusia dan Komputer. Bertujuan untuk menerapkan prinsip-prinsip usability dan user interface design dalam pembuatan prototipe website menggunakan tools desain modern seperti **Figma**.
 
@@ -21,7 +21,7 @@ Anggota kelompok:
 
 ---
 
-## 🛠 Tools
+## Tools
 
 - **Figma**: Platform desain UI/UX berbasis cloud
 - **Google Fonts**: Untuk pemilihan tipografi
@@ -29,7 +29,7 @@ Anggota kelompok:
 
 ---
 
-## 🎯 Tujuan Desain
+## Tujuan Desain
 
 - Menyusun struktur visual halaman website yang bersih dan mudah dipahami
 - Menyajikan desain yang adaptif terhadap user flow dasar
@@ -37,7 +37,7 @@ Anggota kelompok:
 
 ---
 
-## 🔗 Preview Desain
+## Preview Desain
 
 Proyek ini dapat dilihat secara langsung melalui Figma embed di bawah ini:
 
