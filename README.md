@@ -3,7 +3,6 @@
 ## Deskripsi Proyek
 
 **Wonderland** adalah proyek desain antarmuka pengguna (UI) berbasis Figma yang berfokus pada pembuatan tampilan visual untuk sebuah website. Proyek ini dirancang untuk menciptakan pengalaman pengguna yang menarik, estetis, dan intuitif, dengan fokus pada pengorganisasian layout, warna, dan navigasi yang konsisten.
-
 Tujuan utama dari proyek ini adalah menghasilkan rancangan UI yang dapat dijadikan acuan awal dalam pengembangan web, baik untuk kebutuhan presentasi, prototype, maupun pengembangan produk digital lebih lanjut.
 
 ---
